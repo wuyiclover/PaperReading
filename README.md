@@ -7,22 +7,6 @@
 - Pre-training Universal Language Representation
 - Syntax-Enhanced Pre-trained Model
 
-#### 小样本
-- Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification
-- Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference
-- Few-Shot Question Answering by Pretraining Span Selection
-- Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision
-- Risk Minimization for Zero-shot Sequence Labeling
-- Siamese Neural Networks for One-shot Image Recognition
-- Matching Networks for One Shot Learning
-- Prototypical networks for few-shot learning
-- Induction Networks for Few-Shot Text Classification
-- Learning to Bridge Metric Spaces- Few-shot Joint Learning of IntentDetection and Slot Filling
-- Neural Snowball for Few-Shot Relation Learning
-- Pre-training Text Representations as Meta Learning
-- Universal Natural Language Processing with Limited Annotations Try Few-shot Textual Entailment as a Start
-
-
 #### 文本推理
 - Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning
 - KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference
@@ -41,4 +25,22 @@
 - Generating Negative Commonsense Knowledge
 - Uncertain Natural Language Inference
 - Braid Weaving Symbolic and Statistical Knowledge into Coherent Logical Explanations
+
+#### 小样本
+- Leveraging Type Descriptions for Zero-shot Named Entity Recognition and Classification
+- Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference
+- Few-Shot Question Answering by Pretraining Span Selection
+- Few-Shot Text Ranking with Meta Adapted Synthetic Weak Supervision
+- Risk Minimization for Zero-shot Sequence Labeling
+- Siamese Neural Networks for One-shot Image Recognition
+- Matching Networks for One Shot Learning
+- Prototypical networks for few-shot learning
+- Induction Networks for Few-Shot Text Classification
+- Learning to Bridge Metric Spaces- Few-shot Joint Learning of IntentDetection and Slot Filling
+- Neural Snowball for Few-Shot Relation Learning
+- Pre-training Text Representations as Meta Learning
+- Universal Natural Language Processing with Limited Annotations Try Few-shot Textual Entailment as a Start
+
+
+
 
