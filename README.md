@@ -27,4 +27,4 @@
 - Data Augmentation with Adversarial Training for Cross-Lingual NLI
 - Alignment Rationale for Natural Language Inference
 - Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs
-- 
+
