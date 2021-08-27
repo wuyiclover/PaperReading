@@ -1,11 +1,12 @@
 # PaperReading
 
-#### 语言模型
-- Shortformer: Better Language Modeling Using Shorter Inputs
-- ChineseBERT: Chinese Pretraining Enhanced by Glyph and Pinyin Information
-- Are Pre-trained Convolutions Better than Pre-trained Transformers?
-- Pre-training Universal Language Representation
-- Syntax-Enhanced Pre-trained Model
+### reasoning
+#### Logical Reasoning
+#### Commonsense Reasoning
+#### Mathematical Reasoning
+#### Multi-hop Reasoning
+#### Abductive reasoning
+#### Causal reasoning
 
 #### 文本推理
 - Inter-GPS: Interpretable Geometry Problem Solving with Formal Language and Symbolic Reasoning
