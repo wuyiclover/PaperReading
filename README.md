@@ -4,6 +4,12 @@ Papers about NLI
 
 1. [Survey](#Survey)
 2. [Reasoning&Inference](#Reasoning&Inference)
+  - [Logical Reasoning](#LogicalReasoning)
+  - [Commonsense Reasoning](#CommonsenseReasoning)
+  - [Causal Inference](#CausalInference)
+  - [Abductive Reasoning](#AbductiveReasoning)
+  - [Mathematical Reasoning](#MathematicalReasoning)
+  - [Multi-hop Reasoning](#Multi-hopReasoning)
 3. [Commonsence Knowledge](#CommonsenceKnowledge)
 4. [Explanations](#Explanations)
 5. [PLMs](#PLMs)
@@ -12,6 +18,7 @@ Papers about NLI
 
 ### Survey
 
+- Commonsense Reasoning for Natural Language Understanding  A Survey of Benchmarks, Resources, and Approaches
 - Beyond Leaderboards A survey of methods for revealing weaknesses in Natural Language Inference data and models
 - Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering
 
