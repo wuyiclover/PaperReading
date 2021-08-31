@@ -2,18 +2,18 @@ Papers about NLI
 
 ## Contents
 
-1. [Survey](#Survey)
-2. [Reasoning&Inference](#Reasoning&Inference)
+- [Survey](#Survey)
+- [Reasoning&Inference](#Reasoning&Inference)
   - [Logical Reasoning](#LogicalReasoning)
   - [Commonsense Reasoning](#CommonsenseReasoning)
   - [Causal Inference](#CausalInference)
   - [Abductive Reasoning](#AbductiveReasoning)
   - [Mathematical Reasoning](#MathematicalReasoning)
   - [Multi-hop Reasoning](#Multi-hopReasoning)
-3. [Commonsence Knowledge](#CommonsenceKnowledge)
-4. [Explanations](#Explanations)
-5. [PLMs](#PLMs)
-6. [Dataset](#Dataset)
+- [Commonsence Knowledge](#CommonsenceKnowledge)
+- [Explanations](#Explanations)
+- [PLMs](#PLMs)
+- [Dataset](#Dataset)
 
 
 ### Survey
