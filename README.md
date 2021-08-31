@@ -18,9 +18,9 @@ Papers about NLI
 
 ### Survey
 
-- Commonsense Reasoning for Natural Language Understanding  A Survey of Benchmarks, Resources, and Approaches
-- Beyond Leaderboards A survey of methods for revealing weaknesses in Natural Language Inference data and models
-- Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering
+- Recent Advances in Natural Language Inference: A Survey of Benchmarks, Resources, and Approaches [[pdf](https://arxiv.org/abs/1904.01172v3)] 2020.2
+- Beyond Leaderboards A survey of methods for revealing weaknesses in Natural Language Inference data and models [[pdf](https://arxiv.org/abs/2005.14709)] 2020.5
+- Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering [[pdf](https://arxiv.org/abs/1806.04330)] 2018.8
 
 ### Reasoning&Inference
 
